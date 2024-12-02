@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maarcopassos
-- 👀 I’m interested motorbike and DIY
+- 👀 I’m interested networking; motorbike and DIY
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me by Instagram
